@@ -1,4 +1,3 @@
-# pycloud[README.md](https://github.com/user-attachments/files/23290609/README.md)
 
 # pycloud
 this is a little tool i made for myself, it uses telegram and python to make something like a cloud file hosting service BUT you get unlimited storage
